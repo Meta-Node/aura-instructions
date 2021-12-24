@@ -2,34 +2,42 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Aura Intro
 
-Let's discover **Docusaurus in less than 5 minutes**.
+To access the Aura App you must use your BrightID Explorer Code and Password.
 
-## Getting Started
+Follow the steps below to locate your credentials.
 
-Get started by **creating a new site**.
+## Find your Explorer Code and Password
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+### Explorer Code
+In the BrightID mobile app, click the menu button at the top left. 
 
-## Generate a new site
+![Example banner](../static/img/bid-inst-menu-btn.png)
 
-Generate a new Docusaurus site using the **classic template**:
+Click Copy Explorer Code
 
-```shell
-npm init docusaurus@latest my-website classic
-```
+![Example banner](../static/img/bid-inst-menu.png)
 
-## Start your site
+Click the Copy Code Button
 
-Run the development server:
+![Example banner](../static/img/bid-inst-explorer-code.png)
 
-```shell
-cd my-website
 
-npx docusaurus start
-```
+### Password
 
-Your site starts at `http://localhost:3000`.
+Click the menu buttton at the top left and click Edit Profile
 
-Open `docs/intro.md` and edit some lines: the site **reloads automatically** and displays your changes.
+![Example banner](../static/img/bid-inst-menu-profile.png)
+
+Click View Password
+
+![Example banner](../static/img/bid-inst-profile.png)
+
+## Get the BrightID App
+
+If you do not have BrightID, you must first install it on your mobile device.
+
+[Apple App Store](https://apps.apple.com/us/app/brightid/id1428946820)
+
+[Google Play App Store](https://play.google.com/store/apps/details?id=org.brightid)

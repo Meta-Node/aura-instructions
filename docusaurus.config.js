@@ -50,12 +50,6 @@ const config = {
         },
         items: [
           {
-            type: 'doc',
-            docId: 'intro',
-            position: 'left',
-            label: 'Tutorial',
-          },
-          {
             href: 'https://aura.brightid.org/',
             label: 'APP',
             position: 'left',

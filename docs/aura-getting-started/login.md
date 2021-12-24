@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 ---
 
 # Aura Login
@@ -33,11 +33,3 @@ Click the menu buttton at the top left and click Edit Profile
 Click View Password
 
 ![Example banner](../../static/img/bid-inst-profile.png)
-
-## Get the BrightID App
-
-If you do not have BrightID, you must first install it on your mobile device.
-
-[Apple App Store](https://apps.apple.com/us/app/brightid/id1428946820)
-
-[Google Play App Store](https://play.google.com/store/apps/details?id=org.brightid)

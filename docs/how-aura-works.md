@@ -20,10 +20,8 @@ Inquisitive users represent 5% of the user base. They use apps, but also become 
 
 Aura players consist of inquisitive users. They assign honesty points to those they know well. This contrasts with normal BrightID users, who in most cases only label how well they know someone and don’t try to assess their honesty.
 
-Aura players send each other [energy](https://elated-murdock-5004e1.netlify.app/docs/energy), which represents the power to verify other BrightID users. This results in an inner graph composed of Aura players and an outer graph of the rest of BrightID users _(3)_.
+Aura players send each other [energy](https://elated-murdock-5004e1.netlify.app/docs/energy), which represents the power to verify other BrightID users. This results in an inner graph composed of Aura players and an outer graph of the rest of BrightID users[^3].
 
 ![Example banner](../static/img/inner-outer-graph.png)
 
-##### Citations
-
-3. [SybilRank](https://www.usenix.org/conference/nsdi12/technical-sessions/presentation/cao) uses far fewer resources in the Aura social graph because the power iteration only flows energy through the inner graph of Aura users. Other BrightID users are connected by a single hop to the inner graph. Verification depends on the honesty ratings given to a user and the energy levels of the players giving them those ratings. (Only Aura players have energy.) This is a simple calculation that can be done on the fly when a user requests a verification.
+[^3]: [SybilRank](https://www.usenix.org/conference/nsdi12/technical-sessions/presentation/cao) uses far fewer resources in the Aura social graph because the power iteration only flows energy through the inner graph of Aura users. Other BrightID users are connected by a single hop to the inner graph. Verification depends on the honesty ratings given to a user and the energy levels of the players giving them those ratings. (Only Aura players have energy.) This is a simple calculation that can be done on the fly when a user requests a verification.

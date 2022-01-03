@@ -30,7 +30,7 @@ export default function Home() {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="How to play the energyg game.">
+      description="How to play the energy game.">
       <HomepageHeader />
       <main>
         {/* <HomepageFeatures /> */}

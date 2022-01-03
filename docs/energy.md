@@ -4,13 +4,13 @@ sidebar_position: 6
 
 # Energy
 
-Energy provides “skin in the game” and a measurement of verification potential for Aura players. The use of multiple flavors of energy provides an avenue for decentralization.
+Energy provides “skin in the game” and a measurement of verification potential for Aura players. The use of multiple [flavors](https://elated-murdock-5004e1.netlify.app/docs/energy#energy-flavors) of energy provides an avenue for [decentralization](https://elated-murdock-5004e1.netlify.app/docs/goals#decentralized).
 
 ## Energy sources
 
 A team of sybil defenders can create an energy source and brand it, turning it into a new flavor of energy. A small fee paid in $Bright _(4)_ prevents spamming new energy flavors.
 
-The energy team that controls the source restarts each analysis round with all the energy of that flavor. It then flows as allocated by Aura players _(5)_.
+The energy team that controls the source restarts each analysis round with all the energy of that flavor. It then flows as [allocated by Aura players](https://elated-murdock-5004e1.netlify.app/docs/how-aura-works#the-aura-social-graph) _(5)_.
 
 ### Energy team management
 

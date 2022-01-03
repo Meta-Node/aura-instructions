@@ -14,7 +14,7 @@ _Yellow nodes represent a sybil attack. Green nodes represent seeds, which help 
 
 Verification methods analyze the structure of the anonymous graph of connections (1). People need to be sufficiently connected to the honest part of the graph to become verified. Analysis methods find the “honest part” using seeds or pre-trusted people.
 
-## Goals for selecting seeds (2)
+## Goals for selecting seeds _(2)_
 
 1. All communities should have access to seeds.
 2. Suspicious connections to seeds are pruned.

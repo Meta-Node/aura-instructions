@@ -4,13 +4,13 @@ sidebar_position: 6
 
 # Energy
 
-Energy provides “skin in the game” and a measurement of verification potential for Aura players. The use of multiple flavors of energy provides an avenue for decentralization.
+Energy provides “skin in the game” and a measurement of verification potential for Aura players. The use of multiple [flavors](https://elated-murdock-5004e1.netlify.app/docs/energy#energy-flavors) of energy provides an avenue for [decentralization](https://elated-murdock-5004e1.netlify.app/docs/goals#decentralized).
 
 ## Energy sources
 
 A team of sybil defenders can create an energy source and brand it, turning it into a new flavor of energy. A small fee paid in $Bright _(4)_ prevents spamming new energy flavors.
 
-The energy team that controls the source restarts each analysis round with all the energy of that flavor. It then flows as allocated by Aura players _(5)_.
+The energy team that controls the source restarts each analysis round with all the energy of that flavor. It then flows as [allocated by Aura players](https://elated-murdock-5004e1.netlify.app/docs/how-aura-works#the-aura-social-graph) _(5)_.
 
 ### Energy team management
 
@@ -43,3 +43,4 @@ Creators or early proponents of a new energy flavor can add to its reward bucket
 4. Fees are paid to the non-profit fund for Aura research and development.
 5. Via power iterations as in [SybilRank](https://www.usenix.org/conference/nsdi12/technical-sessions/presentation/cao).
 6. This integer is a global Aura constant that can be adjusted based on real-world analysis.
+7. The depositor determines the flow rate of the reward. For example, they could deposit 1000 $Bright to be distributed over 10 days. A small percentage of the reward is sent as a fee to the non-profit Aura fund to pay for the maintenance of the reward system and Aura’s research and development. Early depositors could be rewarded via [attention streams](https://docs.google.com/document/d/1TKA-K8YadRdgz-Qek01TUcCkRaI9CKCXGtJ31AbVWIU/edit#heading=h.c8wdt9uwyj7r).

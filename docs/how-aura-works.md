@@ -20,7 +20,7 @@ Inquisitive users represent 5% of the user base. They use apps, but also become 
 
 Aura players consist of inquisitive users. They assign honesty points to those they know well. This contrasts with normal BrightID users, who in most cases only label how well they know someone and don’t try to assess their honesty.
 
-Aura players send each other energy, which represents the power to verify other BrightID users. This results in an inner graph composed of Aura players and an outer graph of the rest of BrightID users _(3)_.
+Aura players send each other [energy](https://elated-murdock-5004e1.netlify.app/docs/energy), which represents the power to verify other BrightID users. This results in an inner graph composed of Aura players and an outer graph of the rest of BrightID users _(3)_.
 
 ![Example banner](../static/img/inner-outer-graph.png)
 

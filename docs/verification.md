@@ -4,9 +4,9 @@ sidebar_position: 5
 
 # Aura Verification
 
-Becoming verified through Aura is simple for regular BrightID users. They don’t need to use Aura; they just need to connect to at least one Aura player. The player will rate the honesty of the user using the tools available to them.
+Becoming verified through Aura is simple for regular BrightID users. They don’t need to use Aura; they just need to connect to at least one Aura player. The player will rate the honesty of the user using the [tools](https://elated-murdock-5004e1.netlify.app/docs/energy) available to them.
 
-It may take time for a new BrightID user to find an Aura player that knows them well enough to rate their honesty. The time will reduce as the number of BrightID and Aura users grows.
+It may take time for a new BrightID user to find an Aura player that knows them well enough to rate their honesty. The time will reduce as the [number of BrightID and Aura users grows](https://elated-murdock-5004e1.netlify.app/docs/goals#scalable).
 
 ## Verification tools
 

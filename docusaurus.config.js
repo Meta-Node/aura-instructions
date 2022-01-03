@@ -42,6 +42,10 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      colorMode: {
+        defaultMode: 'dark',
+        disableSwitch: true,
+      },
       navbar: {
         title: 'AURA Instructions',
         logo: {

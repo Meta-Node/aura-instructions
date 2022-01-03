@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Aura Instructions',
+  title: 'Aura Docs',
   tagline: 'How to play the energy game',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
@@ -47,7 +47,7 @@ const config = {
         disableSwitch: true,
       },
       navbar: {
-        title: 'AURA Instructions',
+        title: 'AURA Docs',
         logo: {
           alt: 'Aura Sphere',
           src: 'img/aura-sphere-1.png',

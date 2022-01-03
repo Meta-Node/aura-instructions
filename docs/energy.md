@@ -8,9 +8,9 @@ Energy provides “skin in the game” and a measurement of verification potenti
 
 ## Energy sources
 
-A team of sybil defenders can create an energy source and brand it, turning it into a new flavor of energy. A small fee paid in $Bright prevents spamming new energy flavors.
+A team of sybil defenders can create an energy source and brand it, turning it into a new flavor of energy. A small fee paid in $Bright _(4)_ prevents spamming new energy flavors.
 
-The energy team that controls the source restarts each analysis round with all the energy of that flavor. It then flows as allocated by Aura players.
+The energy team that controls the source restarts each analysis round with all the energy of that flavor. It then flows as allocated by Aura players _(5)_.
 
 ### Energy team management
 
@@ -22,7 +22,7 @@ Only energy team members start with energy at the beginning of analysis rounds. 
 
 Each energy source has its own flavor, and its flow is independently calculated.
 
-Players choose up to five energy flavors for their personal energy composition. Energy received by a player in a flavor not in their composition is absorbed (not passed on).
+Players choose up to five _(6)_ energy flavors for their personal energy composition. Energy received by a player in a flavor not in their composition is absorbed (not passed on).
 
 Apps choose verification methods that include one or more energy flavors in their analysis. Only included flavors can help players verify other users.
 

@@ -55,7 +55,7 @@ const config = {
         },
         items: [
           {
-            href: 'https://aura.brightid.org/',
+            href: 'https://aura-new.vercel.app/',
             label: 'APP',
             position: 'left',
           },
